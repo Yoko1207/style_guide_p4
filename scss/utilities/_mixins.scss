@@ -1,0 +1,8 @@
+// ======================================
+//  Mixins
+// ======================================
+@mixin btn-hover {
+  background-color: $color-primary-light;
+  transition: color .5s;
+
+}
